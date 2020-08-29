@@ -2,7 +2,7 @@
 
 Test repository to better understand how to use Git and GitHub
 
-## Subheader
+## What I learned
 
 * clone repository into code editor
 * work on repository
