@@ -12,3 +12,4 @@ Test repository to better understand how to use Git and GitHub
 
 - creating a new branch (git checkout -b branchName)
 - switching between branches (git checkout branchName)
+- push a branch to GitHub
